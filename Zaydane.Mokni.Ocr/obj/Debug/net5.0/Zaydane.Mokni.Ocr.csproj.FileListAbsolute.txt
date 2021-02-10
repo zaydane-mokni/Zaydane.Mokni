@@ -1,0 +1,17 @@
+/Users/zaydanemokni/Desktop/2019595785/Zaydane.Mokni/Zaydane.Mokni.Ocr/bin/Debug/net5.0/tessdata/fra.traineddata
+/Users/zaydanemokni/Desktop/2019595785/Zaydane.Mokni/Zaydane.Mokni.Ocr/bin/Debug/net5.0/x86/leptonica-1.80.0.dll
+/Users/zaydanemokni/Desktop/2019595785/Zaydane.Mokni/Zaydane.Mokni.Ocr/bin/Debug/net5.0/x86/tesseract41.dll
+/Users/zaydanemokni/Desktop/2019595785/Zaydane.Mokni/Zaydane.Mokni.Ocr/bin/Debug/net5.0/x64/leptonica-1.80.0.dll
+/Users/zaydanemokni/Desktop/2019595785/Zaydane.Mokni/Zaydane.Mokni.Ocr/bin/Debug/net5.0/x64/tesseract41.dll
+/Users/zaydanemokni/Desktop/2019595785/Zaydane.Mokni/Zaydane.Mokni.Ocr/bin/Debug/net5.0/Zaydane.Mokni.Ocr.deps.json
+/Users/zaydanemokni/Desktop/2019595785/Zaydane.Mokni/Zaydane.Mokni.Ocr/bin/Debug/net5.0/Zaydane.Mokni.Ocr.dll
+/Users/zaydanemokni/Desktop/2019595785/Zaydane.Mokni/Zaydane.Mokni.Ocr/bin/Debug/net5.0/ref/Zaydane.Mokni.Ocr.dll
+/Users/zaydanemokni/Desktop/2019595785/Zaydane.Mokni/Zaydane.Mokni.Ocr/bin/Debug/net5.0/Zaydane.Mokni.Ocr.pdb
+/Users/zaydanemokni/Desktop/2019595785/Zaydane.Mokni/Zaydane.Mokni.Ocr/obj/Debug/net5.0/Zaydane.Mokni.Ocr.csprojAssemblyReference.cache
+/Users/zaydanemokni/Desktop/2019595785/Zaydane.Mokni/Zaydane.Mokni.Ocr/obj/Debug/net5.0/Zaydane.Mokni.Ocr.GeneratedMSBuildEditorConfig.editorconfig
+/Users/zaydanemokni/Desktop/2019595785/Zaydane.Mokni/Zaydane.Mokni.Ocr/obj/Debug/net5.0/Zaydane.Mokni.Ocr.AssemblyInfoInputs.cache
+/Users/zaydanemokni/Desktop/2019595785/Zaydane.Mokni/Zaydane.Mokni.Ocr/obj/Debug/net5.0/Zaydane.Mokni.Ocr.AssemblyInfo.cs
+/Users/zaydanemokni/Desktop/2019595785/Zaydane.Mokni/Zaydane.Mokni.Ocr/obj/Debug/net5.0/Zaydane.Mokni.Ocr.csproj.CoreCompileInputs.cache
+/Users/zaydanemokni/Desktop/2019595785/Zaydane.Mokni/Zaydane.Mokni.Ocr/obj/Debug/net5.0/Zaydane.Mokni.Ocr.dll
+/Users/zaydanemokni/Desktop/2019595785/Zaydane.Mokni/Zaydane.Mokni.Ocr/obj/Debug/net5.0/ref/Zaydane.Mokni.Ocr.dll
+/Users/zaydanemokni/Desktop/2019595785/Zaydane.Mokni/Zaydane.Mokni.Ocr/obj/Debug/net5.0/Zaydane.Mokni.Ocr.pdb

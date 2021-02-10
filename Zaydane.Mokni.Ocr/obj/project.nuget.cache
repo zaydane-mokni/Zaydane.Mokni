@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "NleheqT0f/iihVu+9UP2gUrPYhncXzY8xV8EEVU1AaTEypKn8LJqM5KUujNyi5l/b96SxVB5IAwOAEUGuGjGMg==",
+  "success": true,
+  "projectFilePath": "/Users/zaydanemokni/Desktop/2019595785/Zaydane.Mokni/Zaydane.Mokni.Ocr/Zaydane.Mokni.Ocr.csproj",
+  "expectedPackageFiles": [
+    "/Users/zaydanemokni/.nuget/packages/system.reflection.emit/4.7.0/system.reflection.emit.4.7.0.nupkg.sha512",
+    "/Users/zaydanemokni/.nuget/packages/tesseract/4.1.1/tesseract.4.1.1.nupkg.sha512"
+  ],
+  "logs": []
+}
